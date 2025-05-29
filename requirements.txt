@@ -1,0 +1,6 @@
+flask
+flask-basicauth
+textblob
+scikit-learn
+pandas
+requests

@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+.env/
+
+# Arquivos de configuração do VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Python test outputs
+.pytest_cache/
+
+# Arquivos Python compilados
+*.pyo
+*.pyd
+
+# Pipenv
+Pipfile.lock
+
+# PyCharm
+.idea/
