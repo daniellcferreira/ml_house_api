@@ -49,5 +49,3 @@ Essa aplicação é ideal para fins didáticos e demonstra como integrar modelos
 - **Pandas 2.2.2**: Biblioteca para manipulação e análise de dados estruturados, utilizada para leitura e preparação do dataset.
 - **Pickle (módulo padrão)**: Utilizado para serializar e desserializar o modelo de machine learning treinado.
 - **Thunder Client**: Ferramenta integrada ao VSCode usada para testar endpoints HTTP.
-
-
